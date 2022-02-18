@@ -1,0 +1,21 @@
+['https://www.google.com/search?q=green',
+ 'tbm=isch',
+ 'ved=2ahUKEwj7vs_H64j2AhUh_jgGHTOGCcwQ2-cCegQIABAA',
+ 'oq=green',
+ 'gs_lcp=CgNpbWcQAzIECAAQQzIECAAQQzIKCAAQsQMQgwEQQzIECAAQQzIECAAQQzIKCAAQsQMQgwEQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzoHCCMQ7wMQJzoHCAAQsQMQQzoFCAAQgARQjBJYiRhghBpoAHAAeACAAZICiAHvCJIBBTAuNC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE',
+ 'sclient=img',
+ 'ei=mVkPYruONKH84-EPs4ym4Aw',
+ 'bih=958',
+ 'biw=1884']
+
+ ['https://www.google.com/search?q=blue',
+ 'tbm=isch',
+ 'ved=2ahUKEwijiszp64j2AhW4xaACHTN7CBsQ2-cCegQIABAA',
+ 'oq=blue',
+ 'gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIECAAQQzIHCAAQsQMQQzIKCAAQsQMQgwEQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzoHCCMQ7wMQJ1DZFlitGWDCGmgAcAB4AYABpAKIAeIHkgEFMC4zLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ',
+ 'sclient=img',
+ 'ei=4VkPYuOVBriLg8UPs_ah2AE',
+ 'bih=958',
+ 'biw=1884']
+
+https://www.google.com/search?q=blue&tbm=isch
