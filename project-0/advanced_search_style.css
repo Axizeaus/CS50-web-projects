@@ -1,0 +1,33 @@
+body {
+    display : flex;
+    flex-direction: column;
+}
+
+#form-container {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-rows{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 500px;
+    margin-top: 10px;
+}
+
+#header {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#links-to-other-search-functions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
